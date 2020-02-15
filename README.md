@@ -15,10 +15,11 @@ Exclusively created to takedown subdomains using git push
 
 
 # How to apply
-1. Use git push in heroku (cc is required)
-2. Phishing
-3. Iframe based phishing
-
+1. Use git push in heroku
+- cc and git verification is required
+2. Hijack subdomains, clone this repository and edit accordingly
+3. You can find tune these template for phishing
+4. Iframe based phishing is also possible
 
 # Permissions
 1. Always use 777 (world readable and writable permission)
