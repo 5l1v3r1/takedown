@@ -6,11 +6,11 @@ Exclusively created to takedown subdomains using git push
 1. Save any page, example google.com
 2. Save it as login.html
 3. Fix paths as absolute paths
-4. Edit index.php and input login.html
-5. Index.php will provide access to fake login.html
-6. Ip will be recorded
-7. Edit login.php for fake redirect
-8. Search, action= and use action=login.php 
+4. Edit index.php and enter login.html
+5. Index.php will reditect fake login.html
+6. Guest I.P will save
+7. Edit login.php, enter redirect url
+8. Search, action= in login.html and use action=login.php 
 9. Save it and use these file as phishing or take over
 
 
@@ -18,7 +18,7 @@ Exclusively created to takedown subdomains using git push
 1. Use git push in heroku
 - cc and git verification is required
 2. Hijack subdomains, clone this repository and edit accordingly
-3. You can find tune these template for phishing
+3. You can fine tune these template for phishing
 4. Iframe based phishing is also possible
 
 # Permissions
@@ -26,5 +26,5 @@ Exclusively created to takedown subdomains using git push
 
 
 # How to update template
-1. It can work on any kind of website
-2. Download and edit, it will work
+1. It can work for any kind of website bases phishing
+2. It will work to hijack subdomains that use git push
