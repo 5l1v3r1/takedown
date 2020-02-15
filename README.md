@@ -21,17 +21,13 @@ Exclusively created to takedown subdomains using git push
 - cc and git verification is required
 2. Hijack subdomains, clone this repository and edit accordingly
 
-# Use it on your own server
+# Server host
 1. Fine tune these template for phishing attacks
 2. Iframe based phishing is also possible 
 
 # Server or Localhost Permissions
 1. Always use 777 (world readable and writable permission)
 2. Without 777 permission, files will not save
-
-# How to update template
-1. It can work for any kind of website bases phishing
-2. It will work to hijack subdomains that use git push
 
 # Benefits
 1. Guest I.P will save as ip.txt
